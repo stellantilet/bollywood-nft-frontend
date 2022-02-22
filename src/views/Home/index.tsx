@@ -1,4 +1,5 @@
 import classNames from "classnames";
+import Mint from "./Mint";
 
 const Home = () => {
   return (
@@ -7,6 +8,7 @@ const Home = () => {
         "text-gray-800 dark:text-gray-100": true,
       })}
     >
+      <Mint />
     </div>
   );
 };

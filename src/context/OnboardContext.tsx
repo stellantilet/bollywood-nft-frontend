@@ -40,7 +40,7 @@ class OnboardProvider extends Component {
 
     const initialisation = {
       dappId: BLOCK_NATIVE_API_KEY,
-      networkId: 4,
+      networkId: 97,
       walletCheck: walletChecks,
       walletSelect: {
         heading: "Select a wallet",
