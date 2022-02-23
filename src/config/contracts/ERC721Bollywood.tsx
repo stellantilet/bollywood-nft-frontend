@@ -1,6 +1,6 @@
 const ERC721Bollywood = {
   address: {
-    bscTestnet: "0xE9569DD90Edc67b272b5857E1960cCad03797D83",
+    97: "0xE9569DD90Edc67b272b5857E1960cCad03797D83",
   },
   abi: [
     {

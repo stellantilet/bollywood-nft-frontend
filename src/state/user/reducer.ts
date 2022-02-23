@@ -10,7 +10,7 @@ export interface UserState {
 
 export const initialState: UserState = {
   timestamp: currentTimestamp(),
-  isDark: false,
+  isDark: true,
 };
 
 export default createReducer(initialState, (builder) =>

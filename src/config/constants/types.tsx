@@ -1,1 +1,3 @@
-export enum Test {}
+export enum NetworkId {
+  BscTestnet = 97,
+}

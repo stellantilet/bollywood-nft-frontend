@@ -19,7 +19,7 @@ const App = () => {
           </Switch>
         </Router>
         <Toaster
-          position="top-center"
+          position="top-right"
           reverseOrder={false}
           gutter={8}
           containerClassName=""
