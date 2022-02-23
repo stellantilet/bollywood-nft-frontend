@@ -31,8 +31,8 @@ const FAQItem = ({ header, content }: { header: any; content: any }) => {
 
 const FAQ = () => {
   return (
-    <div className="container px-4 py-10 mx-auto" id="faq">
-      <h2 className="text-center text-3xl mb-2">Frequently asked questions</h2>
+    <div className="container max-w-5xl px-4 py-10 mx-auto" id="faq">
+      <h2 className="text-center text-3xl mb-4">Frequently asked questions</h2>
       <FAQItem
         header="What’s unique about CSS Club NFTs?"
         content="CSS Club NFTs depict the saga of a cinephile in the metaverse. The art uses a unique base face vector to produce multiple characters based on Indian cinema. From “Gabbar in Sholey” to “Rohit in Kaho na pyar hai”, every movie aficionado will connect with these characters and bring reminiscence of the good times they had while enjoying these characters in the films."

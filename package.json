@@ -2,7 +2,6 @@
   "name": "bollywood-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://stellantilet.github.io/bollywood-frontend",
   "dependencies": {
     "@craco/craco": "^6.4.0",
     "@ethersproject/providers": "^5.5.0",

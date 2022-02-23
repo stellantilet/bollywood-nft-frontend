@@ -62,7 +62,7 @@ const Mint = () => {
         })}
       >
         <img
-          className="w-full md:w-80 text-center overflow-hidden bg-cover"
+          className="w-full sm:w-80 text-center overflow-hidden bg-cover"
           src={imageListing}
           alt="Listing"
         />

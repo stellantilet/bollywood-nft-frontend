@@ -8,7 +8,8 @@ import { useOnboardContext } from "../../context/OnboardContext";
 import useTheme from "../../hooks/useTheme";
 
 const navigation = [
-  { name: "Teams", href: "/#team" },
+  { name: "Story", href: "/#story" },
+  { name: "Team", href: "/#team" },
   { name: "FAQ", href: "/#faq" },
 ];
 

@@ -42,7 +42,7 @@ const Team = () => {
       })}
       id="team"
     >
-      <h2 className="text-center text-3xl mb-2">Our Team</h2>
+      <h2 className="text-center text-3xl mb-4">Our Team</h2>
       <div className="grid grid-cols-2 gap-4">
         <TeamItem
           image={photo1}

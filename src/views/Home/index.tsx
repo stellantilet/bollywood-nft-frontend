@@ -1,6 +1,7 @@
 import classNames from "classnames";
 import FAQ from "./FAQ";
 import Mint from "./Mint";
+import Story from "./Story";
 import Team from "./Team";
 
 const Home = () => {
@@ -11,6 +12,7 @@ const Home = () => {
       })}
     >
       <Mint />
+      <Story />
       <Team />
       <FAQ />
     </div>
