@@ -69,8 +69,8 @@ const Mint = () => {
         <div className="p-8 mx-auto">
           <h2 className="uppercase text-3xl font-bold">Mint NFT</h2>
           <div className="mt-8">
-            <span>Price: </span>
-            <span>0.5ETH</span>
+            <strong>Price: &nbsp;&nbsp;</strong>
+            <span>0.2 BNB</span>
           </div>
           <button
             disabled={disabled || loading}
